@@ -1,0 +1,6 @@
+-cp src/hx
+-cp hxclasses
+-swf-lib bin/library.swf
+-main Main
+-swf p.swf
+#-neko p.n

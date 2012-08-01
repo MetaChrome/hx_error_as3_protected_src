@@ -1,0 +1,4 @@
+-swf nothing.swf
+--no-output
+-swf-lib bin/library.swf
+--gen-hx-classes bin/library.swf

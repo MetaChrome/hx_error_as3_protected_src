@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="Test" mod="1343815844000" signatureChecksum="89725071" >
+        <def id="Test" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="ExTest" mod="1343816054000" signatureChecksum="122888078" >
+        <def id="ExTest" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Test" type="i" /> 
+      </script>
+      <script name="_13ff2777f703611c2db89ec69a9aefe67a58c1d9bfba16b27d7fb172f4250494_flash_display_Sprite" mod="1343817198234" signatureChecksum="4060379925" >
+        <def id="_13ff2777f703611c2db89ec69a9aefe67a58c1d9bfba16b27d7fb172f4250494_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="ca7766ac04d11745818dd561015629ce9d0b8ccfc176f245e6a40d5e93059338"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
